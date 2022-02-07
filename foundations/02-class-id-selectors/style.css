@@ -1,0 +1,16 @@
+p{
+  font-family: Verdana, sans-serif;
+  background-color: rgb(221, 148, 160);
+}
+.second{
+  color:blue;
+  font-size:36px;
+}
+#third{
+  font-size:24px;
+}
+#fourth{
+  background-color: rgb(143, 206, 143);
+  font-size:24px;
+  font-weight: bold;
+}
