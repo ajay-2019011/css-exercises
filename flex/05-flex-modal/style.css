@@ -72,7 +72,7 @@ button.cancel {
 .content{
   display: flex;
   flex-direction: column;
-  gap:18px;
+  gap:20px;
 }
 
 .top{
